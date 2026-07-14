@@ -1,0 +1,10 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.extensionActivationMode": "always",
+  "idf.espIdfPath": "C:\\esp\\v6.0.1\\esp-idf",
+"idf.toolsPath": "C:\\Espressif\\tools",
+"idf.currentSetup": "C:\\esp\\v6.0.1\\esp-idf",
+"idf.flashType": "UART",
+"idf.portWin": "COM4"
+
+}
